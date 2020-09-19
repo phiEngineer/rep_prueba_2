@@ -2,3 +2,5 @@ A = 20
 B = 30
 
 print('This is old-state')
+
+print('This is old-state draft')
