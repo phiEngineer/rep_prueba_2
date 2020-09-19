@@ -7,6 +7,10 @@ print('This is old-state')
 
 
 
+
 print('New commit c')
 
 print('New commit d')
+
+print('This is old-state draft')
+
