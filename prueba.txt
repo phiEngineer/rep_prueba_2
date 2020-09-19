@@ -5,3 +5,5 @@ print('This is old-state')
 
 
 print('New commit c')
+
+print('New commit d')
