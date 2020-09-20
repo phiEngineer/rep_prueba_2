@@ -1,2 +1,5 @@
 A = 20
 B = 30
+
+
+New commit with switch sentence
